@@ -1,3 +1,7 @@
 nob
+<<<<<<< HEAD
 zxcxzvcxvc
 asfkahgkasd
+=======
+gkjjjkk
+>>>>>>> 8ecd3373a434e763907efec41bb184c99c2c3660
